@@ -1,0 +1,16 @@
+C:\Jane\Hackathons\PulseCheck\PulseCheck\PulseCheck.Infrastructure\obj\Debug\net8.0\PulseCheck.Infrastructure.csproj.AssemblyReference.cache
+C:\Jane\Hackathons\PulseCheck\PulseCheck\PulseCheck.Infrastructure\obj\Debug\net8.0\PulseCheck.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jane\Hackathons\PulseCheck\PulseCheck\PulseCheck.Infrastructure\obj\Debug\net8.0\PulseCheck.Infrastructure.AssemblyInfoInputs.cache
+C:\Jane\Hackathons\PulseCheck\PulseCheck\PulseCheck.Infrastructure\obj\Debug\net8.0\PulseCheck.Infrastructure.AssemblyInfo.cs
+C:\Jane\Hackathons\PulseCheck\PulseCheck\PulseCheck.Infrastructure\obj\Debug\net8.0\PulseCheck.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Jane\Hackathons\PulseCheck\PulseCheck\PulseCheck.Infrastructure\obj\Debug\net8.0\PulseCheck.Infrastructure.sourcelink.json
+C:\Jane\Hackathons\PulseCheck\PulseCheck\PulseCheck.Infrastructure\bin\Debug\net8.0\PulseCheck.Infrastructure.deps.json
+C:\Jane\Hackathons\PulseCheck\PulseCheck\PulseCheck.Infrastructure\bin\Debug\net8.0\PulseCheck.Infrastructure.dll
+C:\Jane\Hackathons\PulseCheck\PulseCheck\PulseCheck.Infrastructure\bin\Debug\net8.0\PulseCheck.Infrastructure.pdb
+C:\Jane\Hackathons\PulseCheck\PulseCheck\PulseCheck.Infrastructure\bin\Debug\net8.0\PulseCheck.Core.dll
+C:\Jane\Hackathons\PulseCheck\PulseCheck\PulseCheck.Infrastructure\bin\Debug\net8.0\PulseCheck.Core.pdb
+C:\Jane\Hackathons\PulseCheck\PulseCheck\PulseCheck.Infrastructure\obj\Debug\net8.0\PulseChe.2FCD6737.Up2Date
+C:\Jane\Hackathons\PulseCheck\PulseCheck\PulseCheck.Infrastructure\obj\Debug\net8.0\PulseCheck.Infrastructure.dll
+C:\Jane\Hackathons\PulseCheck\PulseCheck\PulseCheck.Infrastructure\obj\Debug\net8.0\refint\PulseCheck.Infrastructure.dll
+C:\Jane\Hackathons\PulseCheck\PulseCheck\PulseCheck.Infrastructure\obj\Debug\net8.0\PulseCheck.Infrastructure.pdb
+C:\Jane\Hackathons\PulseCheck\PulseCheck\PulseCheck.Infrastructure\obj\Debug\net8.0\ref\PulseCheck.Infrastructure.dll
